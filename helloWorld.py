@@ -1,2 +1,2 @@
 #Prints 'Hello World!'
-print('Hello World!')
+print('HELLO WORLD!')
